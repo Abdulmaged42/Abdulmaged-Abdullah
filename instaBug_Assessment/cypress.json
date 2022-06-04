@@ -1,0 +1,10 @@
+{
+    "viewportWidth": 1200,
+    "viewportHeight": 700,
+    "chromeWebSecurity": false,
+    "testFiles": "**/*.{feature,features}",
+    "defaultCommandTimeout": 60000,
+    "env": {
+        "baseURL": "https://beta-api.attendance.nagwa.com/"
+    }
+}
